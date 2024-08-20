@@ -10,6 +10,3 @@ plt.title("histograma")
 plt.xlabel("tiempo")
 plt.xlabel("frecuencia")
 plt.show
-
-print(count)
-print(bins)
